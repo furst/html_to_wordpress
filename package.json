@@ -13,6 +13,7 @@
   "license": "ISC",
   "preferGlobal": true,
   "dependencies": {
+    "cheerio": "^0.22.0",
     "inquirer": "^2.0.0"
   }
 }
